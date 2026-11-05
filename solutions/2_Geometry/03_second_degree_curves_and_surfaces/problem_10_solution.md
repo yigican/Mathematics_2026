@@ -1,5 +1,25 @@
 # Exercise 10. Paraboloids
 
+## Question
+
+Compare
+
+$$
+z=x^2+y^2
+$$
+
+and
+
+$$
+z=x^2-y^2.
+$$
+
+For each surface, describe the cross-sections $x=0$, $y=0$, and $z=c$, then make a qualitative sketch.
+
+> **Why this exercise:** teaches how to distinguish two basic types of paraboloids from their cross-sections.
+
+## Solution
+
 **Surface 1: $z=x^2+y^2$.** The sections are:
 
 - $x=0$: $z=y^2$, an upward-opening parabola in the $yz$-plane.

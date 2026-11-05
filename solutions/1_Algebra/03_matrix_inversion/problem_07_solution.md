@@ -1,5 +1,27 @@
 # Exercise 7. Inverse of a Product
 
+## Question
+
+For
+
+$$
+A=
+\begin{pmatrix}
+1 & 1 \\
+0 & 1 \\
+\end{pmatrix},\qquad B=
+\begin{pmatrix}
+2 & 0 \\
+0 & 3 \\
+\end{pmatrix}
+$$
+
+compute $(AB)^{-1}$ and $B^{-1}A^{-1}$. Check that the results are the same and explain the meaning of the reversed order.
+
+> **Why this exercise:** reinforces the inverse-of-a-product property and requires its interpretation.
+
+## Solution
+
 $$
 A=\begin{pmatrix}
 1 & 1 \\

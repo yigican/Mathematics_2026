@@ -1,5 +1,33 @@
 # Exercise 6. Solving a System Using the Inverse
 
+## Question
+
+Solve
+
+$$
+Ax=b,
+$$
+
+where
+
+$$
+A=
+\begin{pmatrix}
+2 & 1 \\
+1 & 3 \\
+\end{pmatrix},\qquad b=
+\begin{pmatrix}
+5 \\
+7 \\
+\end{pmatrix},
+$$
+
+using $x=A^{-1}b$. Then substitute the resulting vector back into the equation and check the result.
+
+> **Why this exercise:** shows the connection between inverse matrices and solving a linear system.
+
+## Solution
+
 $$
 A=\begin{pmatrix}
 2 & 1 \\
@@ -11,7 +39,7 @@ b=\begin{pmatrix}
 \end{pmatrix}.
 $$
 
-Since $\det A=2\cdot3-1=5\neq0$, the inverse exists:
+Since $\det A=2\cdot3-1=5\neq0$, the matrix is invertible and the system has the unique solution $x=A^{-1}b$. For a $2\times2$ matrix, the inverse is obtained by interchanging the diagonal entries, negating the off-diagonal entries, and dividing by the determinant:
 
 $$
 A^{-1}=\frac15\begin{pmatrix}

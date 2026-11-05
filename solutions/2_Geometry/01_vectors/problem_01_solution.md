@@ -2,7 +2,15 @@
 
 ## Question
 
-For $u=(2,-1,3)$ and $v=(-1,4,2)$, compute $u+v$, $u-v$, and $3u-2v$; verify $(u+v)-v=u$ and explain vector addition geometrically.
+For $u=(2,-1,3)$ and $v=(-1,4,2)$ compute
+
+$$
+u+v,\qquad u-v,\qquad 3u-2v.
+$$
+
+Then verify that $(u+v)-v=u$, and explain geometrically what adding two vectors means.
+
+> **Why this exercise:** reinforces basic operations and immediately connects them with their geometric meaning.
 
 ## Solution
 
@@ -23,4 +31,3 @@ $$
 $$
 
 Geometrically, adding vectors means placing the tail of the second vector at the head of the first; the sum is the displacement from the original tail to the final head (equivalently, the diagonal of the parallelogram).
-

@@ -2,7 +2,9 @@
 
 ## Question
 
-For $A=(1,0,2)$, $B=(2,1,0)$, and $C=(0,3,1)$, construct two in-plane vectors, find a vector perpendicular to both, and check it with dot products.
+Given $A=(1,0,2)$, $B=(2,1,0)$, and $C=(0,3,1)$. Construct two vectors lying in the plane, find a vector perpendicular to both, and check the perpendicularity using dot products.
+
+> **Why this exercise:** creates a direct bridge from vectors to the description of a plane.
 
 ## Solution
 
@@ -31,4 +33,3 @@ n\cdot\overrightarrow{AC}=-5+9-4=0.
 $$
 
 Both in-plane directions are perpendicular to $n$, which verifies that $n$ is a normal vector.
-

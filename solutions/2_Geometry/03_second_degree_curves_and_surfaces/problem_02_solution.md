@@ -1,5 +1,19 @@
 # Exercise 2. Circle by Completing the Square
 
+## Question
+
+Reduce
+
+$$
+x^2+y^2-6x+4y-3=0
+$$
+
+to canonical form. Find the center and radius, then substitute two simple points from the circle into both forms of the equation.
+
+> **Why this exercise:** practices completing the square as a transition from a general equation to the geometry of the object.
+
+## Solution
+
 Begin with
 
 $$

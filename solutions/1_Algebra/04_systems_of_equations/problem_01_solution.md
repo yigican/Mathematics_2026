@@ -1,5 +1,24 @@
 # Exercise 1. From a System to a Matrix
 
+## Question
+
+Write the system
+
+$$
+\begin{cases}
+2x-y+z=4, \\
+x+3y-2z=1, \\
+3x+y+z=7.
+\end{cases}
+$$
+
+in the form $Ax=b$.
+Identify the coefficient matrix, the vector of unknowns, and the right-hand side vector. Explain how each row of the matrix corresponds to one equation.
+
+> **Why this exercise:** teaches how to move between a system of equations and matrix notation.
+
+## Solution
+
 The system is
 
 $$

@@ -2,7 +2,9 @@
 
 ## Question
 
-Normalize $v=(3,4)$, check the unit length, reconstruct $v$, and explain what normalization changes.
+For $v=(3,4)$ find a unit vector $e$ with the same direction and orientation. Check that $\|e\|=1$, reconstruct $v$ in the form $v=\|v\|e$, and explain what changes during normalization and what remains unchanged.
+
+> **Why this exercise:** teaches how to separate direction from vector length.
 
 ## Solution
 
@@ -25,4 +27,3 @@ $$
 $$
 
 Normalization changes the length to one while preserving the direction and orientation because division is by the positive scalar $5$.
-

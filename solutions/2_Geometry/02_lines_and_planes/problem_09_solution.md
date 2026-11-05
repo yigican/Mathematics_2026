@@ -1,5 +1,18 @@
 # Exercise 9. Distances
 
+## Question
+
+Compute:
+
+1. the distance from $P=(2,3)$ to the line $3x+4y-10=0$,
+2. the distance from $Q=(2,-1,3)$ to the plane $2x-2y+z-4=0$.
+
+Compare the two formulas and explain their common connection with the normal direction.
+
+> **Why this exercise:** organizes two similar formulas through one geometric idea.
+
+## Solution
+
 **Point to a line.** For a line $ax+by+c=0$ and point $(x_0,y_0)$, distance is the absolute signed normal component divided by the normal length:
 
 $$

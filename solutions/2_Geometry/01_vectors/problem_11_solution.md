@@ -2,7 +2,15 @@
 
 ## Question
 
-Decompose $u=(3,4)$ into components parallel and perpendicular to $v=(1,2)$, perform both requested checks, and explain why they are independent.
+Decompose $u=(3,4)$ into components parallel and perpendicular to $v=(1,2)$. Check
+
+$$
+u=u_{\parallel}+u_{\perp},\qquad u_{\perp}\cdot v=0.
+$$
+
+Explain why these are two independent checks of correctness.
+
+> **Why this exercise:** deepens the idea of projection through construction and verification.
 
 ## Solution
 
@@ -31,4 +39,3 @@ u_{\perp}\cdot v=\frac45-\frac45=0.
 $$
 
 Reconstruction checks that no component of $u$ was lost; the dot product separately checks that the residual has the required perpendicular direction. Either condition alone would not establish both facts.
-

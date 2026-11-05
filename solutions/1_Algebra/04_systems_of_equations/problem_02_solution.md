@@ -1,5 +1,23 @@
 # Exercise 2. Gaussian Elimination — One Solution
 
+## Question
+
+Solve using Gaussian elimination:
+
+$$
+\begin{cases}
+x+y+z=6, \\
+2x-y+z=3, \\
+x+2y-z=2.
+\end{cases}
+$$
+
+After solving, substitute the result into all equations and check consistency.
+
+> **Why this exercise:** introduces the basic method for solving a system and builds the habit of checking the result.
+
+## Solution
+
 Start from the augmented matrix:
 
 $$

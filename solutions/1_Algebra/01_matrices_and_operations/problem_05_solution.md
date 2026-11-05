@@ -1,5 +1,27 @@
 # Exercise 5. Matrix Times Vector
 
+## Question
+
+Let
+
+$$
+A=
+\begin{pmatrix}
+2 & -1 \\
+1 & 3 \\
+\end{pmatrix},\qquad x=
+\begin{pmatrix}
+4 \\
+2 \\
+\end{pmatrix}.
+$$
+
+Compute $Ax$. Then express $Ax$ as a linear combination of the columns of $A$, with coefficients coming from the vector $x$.
+
+> **Why this exercise:** shows that multiplying a matrix by a vector can be understood as a linear combination of the matrix columns.
+
+## Solution
+
 $$
 A=\begin{pmatrix}
 2 & -1 \\

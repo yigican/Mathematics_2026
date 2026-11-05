@@ -1,5 +1,23 @@
 # Exercise 6. Parameter and Invertibility
 
+## Question
+
+For
+
+$$
+A(t)=
+\begin{pmatrix}
+t & 1 \\
+2 & t \\
+\end{pmatrix}
+$$
+
+find all values of $t$ for which the matrix is not invertible. Explain how your answer is related to the determinant being zero.
+
+> **Why this exercise:** shows how the determinant can be used to study a family of matrices depending on a parameter.
+
+## Solution
+
 $$
 A(t)=\begin{pmatrix}
 t & 1 \\

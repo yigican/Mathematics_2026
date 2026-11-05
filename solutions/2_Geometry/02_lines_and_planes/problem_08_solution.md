@@ -1,5 +1,19 @@
 # Exercise 8. Intersection Point of a Line and a Plane
 
+## Question
+
+Find the intersection point of
+
+$$
+(x,y,z)=(1,0,2)+t(1,2,-1)
+$$
+
+with the plane $x+y+z=4$. Check the result by substituting it into both descriptions.
+
+> **Why this exercise:** practices the most important computational case of the line–plane relationship.
+
+## Solution
+
 The line is
 
 $$

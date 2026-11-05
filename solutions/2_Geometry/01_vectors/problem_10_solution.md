@@ -2,7 +2,9 @@
 
 ## Question
 
-For $A=(0,0,0)$, $B=(2,1,0)$, $C=(1,3,2)$, use a cross product to find the parallelogram and triangle areas and explain the factor $1/2$.
+The points $A=(0,0,0)$, $B=(2,1,0)$, and $C=(1,3,2)$ form a triangle. Construct $\overrightarrow{AB}$ and $\overrightarrow{AC}$, compute the area of the parallelogram using the cross product, and then find the area of the triangle. Explain the factor $\frac12$.
+
+> **Why this exercise:** shows the interpretation of the length of the cross product as area.
 
 ## Solution
 
@@ -25,4 +27,3 @@ $$
 $$
 
 The diagonal of a parallelogram made from the two side vectors divides it into two congruent triangles, which explains the factor $1/2$.
-

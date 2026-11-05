@@ -1,5 +1,19 @@
 # Exercise 7. Using Properties Instead of Recomputing
 
+## Question
+
+Suppose that for a $3\times3$ matrix, $\det A=-4$. Compute
+
+$$
+\det(2A),\qquad \det(A^T),\qquad \det(A^2),\qquad \det(-A).
+$$
+
+Justify each answer using the appropriate property.
+
+> **Why this exercise:** teaches how to use determinant properties instead of repeating a full calculation.
+
+## Solution
+
 Suppose $A$ is a $3\times3$ matrix and $\det A=-4$.
 
 **Scalar multiplication:** For an $n\times n$ matrix, $\det(cA)=c^n\det A$. Therefore,

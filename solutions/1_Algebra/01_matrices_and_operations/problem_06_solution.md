@@ -1,5 +1,32 @@
 # Exercise 6. Transpose
 
+## Question
+
+For
+
+$$
+A=
+\begin{pmatrix}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+\end{pmatrix},\qquad B=
+\begin{pmatrix}
+1 & 0 \\
+2 & 1 \\
+-1 & 3 \\
+\end{pmatrix}
+$$
+
+compute $A^T$, $B^T$, and $AB$. Then verify in this example that
+
+$$
+(AB)^T=B^TA^T.
+$$
+
+> **Why this exercise:** teaches transposition and an important property that reverses the order of factors.
+
+## Solution
+
 $$
 A=\begin{pmatrix}
 1 & 2 & 3 \\

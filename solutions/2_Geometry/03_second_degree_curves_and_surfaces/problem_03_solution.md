@@ -1,5 +1,19 @@
 # Exercise 3. Ellipse
 
+## Question
+
+For
+
+$$
+\frac{x^2}{25}+\frac{y^2}{9}=1,
+$$
+
+find the semiaxis lengths, the intercepts with the coordinate axes, and make a sketch. Explain along which axis the ellipse is more stretched and how this is visible in the equation.
+
+> **Why this exercise:** teaches how to read the size and orientation of an ellipse without additional conceptual machinery.
+
+## Solution
+
 For
 
 $$

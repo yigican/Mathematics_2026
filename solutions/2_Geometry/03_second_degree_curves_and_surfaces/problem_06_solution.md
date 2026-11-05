@@ -1,5 +1,19 @@
 # Exercise 6. Shifted Ellipse
 
+## Question
+
+Reduce
+
+$$
+4x^2+9y^2-16x+18y-11=0
+$$
+
+to canonical form. Give the center and semiaxis lengths. Check that substituting the coordinates of the center into the left-hand side gives a value consistent with the form you obtained.
+
+> **Why this exercise:** reinforces completing the square and recognizing a shift of the coordinate system.
+
+## Solution
+
 Complete the square in
 
 $$

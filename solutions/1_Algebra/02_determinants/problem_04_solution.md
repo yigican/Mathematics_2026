@@ -1,5 +1,24 @@
 # Exercise 4. Triangular Matrix
 
+## Question
+
+Without expanding the determinant, compute
+
+$$
+\det
+\begin{pmatrix}
+2 & 4 & 1 \\
+0 & -3 & 5 \\
+0 & 0 & 7 \\
+\end{pmatrix}.
+$$
+
+State the rule for an arbitrary triangular matrix and explain it using this example.
+
+> **Why this exercise:** reinforces an important property of triangular matrices.
+
+## Solution
+
 The given matrix is upper triangular:
 
 $$

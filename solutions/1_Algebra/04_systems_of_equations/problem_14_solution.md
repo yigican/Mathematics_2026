@@ -1,5 +1,33 @@
 # Exercise 14. A Small Change in the Right-Hand Side
 
+## Question
+
+Compare the systems
+
+$$
+\begin{cases}
+x+y=2, \\
+2x-y=1, \\
+3x=3
+\end{cases}
+$$
+
+and
+
+$$
+\begin{cases}
+x+y=2, \\
+2x-y=1, \\
+3x=3.1.
+\end{cases}
+$$
+
+Check the consistency of each system and explain why a small change in one number can change the type of the system.
+
+> **Why this exercise:** shows the difference between a consistent and an inconsistent system without introducing new theory.
+
+## Solution
+
 For both systems, the first two equations are
 
 $$

@@ -1,5 +1,19 @@
 # Exercise 4. Parabola
 
+## Question
+
+For
+
+$$
+y^2=12x,
+$$
+
+identify the vertex, axis of symmetry, and opening direction. Find points on the parabola for $x=3$ and use them to make a sketch.
+
+> **Why this exercise:** teaches how to move from the equation of a parabola to its basic geometry.
+
+## Solution
+
 The equation is
 
 $$

@@ -1,5 +1,25 @@
 # Exercise 11. Two Similar Surfaces
 
+## Question
+
+Compare
+
+$$
+x^2+y^2-z^2=1
+$$
+
+and
+
+$$
+x^2+y^2-z^2=-1.
+$$
+
+For several values $z=c$, check whether the cross-section exists and what its radius is. Based on this, describe qualitatively the difference between the surfaces and make sketches.
+
+> **Why this exercise:** teaches how to recognize the shape of a surface from cross-sections instead of from a memorized catalog of names.
+
+## Solution
+
 **First surface:** $x^2+y^2-z^2=1$. At $z=c$,
 
 $$

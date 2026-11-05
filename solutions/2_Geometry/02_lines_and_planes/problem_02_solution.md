@@ -1,5 +1,19 @@
 # Exercise 2. A Line in Space
 
+## Question
+
+Given
+
+$$
+L:(x,y,z)=(2,-1,3)+t(1,2,-2).
+$$
+
+State a point on the line and its direction vector, check whether $P=(4,3,-1)$ lies on $L$, and find the point corresponding to $t=-1$.
+
+> **Why this exercise:** reinforces the interpretation of parametric form as “point + direction.”
+
+## Solution
+
 The line is
 
 $$

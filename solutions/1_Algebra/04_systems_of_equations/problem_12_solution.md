@@ -1,5 +1,23 @@
 # Exercise 12. Homogeneous System
 
+## Question
+
+Solve
+
+$$
+\begin{cases}
+x+2y-z=0, \\
+2x+4y-2z=0, \\
+x-y+2z=0.
+\end{cases}
+$$
+
+Give all solutions in parametric form and explain why $(0,0,0)$ always satisfies a homogeneous system.
+
+> **Why this exercise:** shows the special case of a system with a zero right-hand side without introducing additional theory.
+
+## Solution
+
 $$
 \begin{cases}
 x+2y-z=0,\\

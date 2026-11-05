@@ -1,5 +1,22 @@
 # Exercise 3. Inconsistent System
 
+## Question
+
+Solve or show that the system is inconsistent:
+
+$$
+\begin{cases}
+x+2y=3, \\
+2x+4y=7.
+\end{cases}
+$$
+
+Show how the contradiction appears in the matrix after elimination and interpret it in terms of equations.
+
+> **Why this exercise:** teaches how to recognize that a system has no solution without guessing.
+
+## Solution
+
 The augmented matrix of the two equations is
 
 $$

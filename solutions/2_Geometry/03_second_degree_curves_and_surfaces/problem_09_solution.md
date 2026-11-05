@@ -1,5 +1,19 @@
 # Exercise 9. Ellipsoid and Its Cross-Sections
 
+## Question
+
+Consider
+
+$$
+\frac{x^2}{9}+\frac{y^2}{4}+\frac{z^2}{16}=1.
+$$
+
+Give the semiaxis lengths, describe the cross-section $z=0$, and explain how the cross-sections $z=c$ change for $|c|<4$.
+
+> **Why this exercise:** teaches how to understand a 3D surface through a family of simpler 2D cross-sections.
+
+## Solution
+
 The surface is
 
 $$

@@ -1,5 +1,22 @@
 # Exercise 6. A System with a Parameter — Which Cases Actually Occur?
 
+## Question
+
+Analyze, depending on the parameter $a$, the system
+
+$$
+\begin{cases}
+x+y=2, \\
+ax+ay=4.
+\end{cases}
+$$
+
+Among the three possibilities — exactly one solution, infinitely many solutions, no solution — determine which actually occur and for which values of $a$. If one type cannot occur, explain why.
+
+> **Why this exercise:** teaches how to analyze a parameter without assuming in advance that all theoretically possible cases must occur in a specific system.
+
+## Solution
+
 The augmented matrix is
 
 $$

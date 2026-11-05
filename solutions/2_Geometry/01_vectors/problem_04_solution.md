@@ -2,7 +2,9 @@
 
 ## Question
 
-For $u=(1,2,-1)$ and $v=(2,-1,3)$, test perpendicularity. Find $a$ such that $w=(2,-1,a)$ is perpendicular to $u$ and check it.
+For $u=(1,2,-1)$ and $v=(2,-1,3)$ compute $u\cdot v$ and determine whether the vectors are perpendicular. Then find $a$ so that $w=(2,-1,a)$ is perpendicular to $u$, and check the result.
+
+> **Why this exercise:** shows the dot product as both a test and a tool for constructing a perpendicularity condition.
 
 ## Solution
 
@@ -25,4 +27,3 @@ u\cdot w=2-2+0=0,
 $$
 
 so the constructed vector is perpendicular to $u$.
-

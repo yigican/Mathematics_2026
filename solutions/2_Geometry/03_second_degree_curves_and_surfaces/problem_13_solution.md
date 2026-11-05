@@ -1,5 +1,19 @@
 # Exercise 13. Intersection of a Sphere and a Plane
 
+## Question
+
+Given the sphere
+
+$$
+x^2+y^2+z^2=25
+$$
+
+and the plane $z=3$, find the equation of the intersection curve and its radius. Then describe what happens for $z=c$ depending on $c$.
+
+> **Why this exercise:** connects a surface equation with the geometry of its intersection.
+
+## Solution
+
 The sphere is $x^2+y^2+z^2=25$. Substituting the plane $z=3$ gives
 
 $$

@@ -2,7 +2,9 @@
 
 ## Question
 
-For $P=(4,1)$ and the line through the origin in direction $v=(1,2)$, find the closest point and distance using projection, and verify the relevant perpendicularity.
+Given a point $P=(4,1)$ and a line through the origin with direction $v=(1,2)$. Using projection, find the closest point on the line, the distance from $P$ to the line, and verify that the appropriate vector is perpendicular to the direction of the line.
+
+> **Why this exercise:** shows projection as a complete solution to a minimum-distance problem.
 
 ## Solution
 
@@ -31,4 +33,3 @@ $$
 $$
 
 Thus the displacement from $Q$ to $P$ is perpendicular to the line direction. A perpendicular segment is the shortest segment from a point to a line, so this also explains why $Q$ is the closest point.
-

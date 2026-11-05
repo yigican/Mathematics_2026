@@ -1,5 +1,25 @@
 # Exercise 3. When Can Matrices Be Multiplied?
 
+## Question
+
+The matrix sizes are
+
+$$
+A_{2\times3},\qquad B_{3\times4},\qquad C_{4\times2},\qquad D_{2\times2}.
+$$
+
+For the products
+
+$$
+AB,\ BA,\ BC,\ CB,\ AC,\ CA,\ AD,\ DA
+$$
+
+determine whether they are defined. If so, state the size of the result. Justify each decision using the dimension compatibility condition.
+
+> **Why this exercise:** forces an understanding of dimension compatibility before carrying out any calculation.
+
+## Solution
+
 Given $A:2\times3$, $B:3\times4$, $C:4\times2$, and $D:2\times2$.
 
 The rule is $(m\times n)(p\times q)$ is defined **if and only if** $n=p$, and the result then has size $m\times q$.

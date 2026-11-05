@@ -1,5 +1,19 @@
 # Exercise 12. Intersection Line of Two Planes
 
+## Question
+
+Find a parametric equation of the line that is the intersection of
+
+$$
+x+y+z=3,\qquad x-y+z=1.
+$$
+
+Find its direction vector in two ways: from the system of equations and from the cross product of the normal vectors. Compare the results.
+
+> **Why this exercise:** shows the equivalence of the algebraic and geometric approaches to constructing an intersection line.
+
+## Solution
+
 The planes are
 
 $$

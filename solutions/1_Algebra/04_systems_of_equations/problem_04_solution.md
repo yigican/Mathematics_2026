@@ -1,5 +1,23 @@
 # Exercise 4. Infinitely Many Solutions
 
+## Question
+
+Solve
+
+$$
+\begin{cases}
+x+y+z=2, \\
+2x+2y+2z=4, \\
+x-y+z=0.
+\end{cases}
+$$
+
+Give the solution in parametric form, identify a free variable, and for one chosen parameter value check that the resulting point really satisfies the system.
+
+> **Why this exercise:** shows the case of multiple solutions and teaches a simple parametric description.
+
+## Solution
+
 Begin with the augmented matrix:
 
 $$

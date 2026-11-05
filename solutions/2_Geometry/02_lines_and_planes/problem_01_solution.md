@@ -1,5 +1,13 @@
 # Exercise 1. Line Through Two Points
 
+## Question
+
+Find the equation of the line through $A=(1,2)$ and $B=(4,-1)$ in parametric and general form. Identify a direction vector and an example of a normal vector. Check that both points satisfy the equation you obtain.
+
+> **Why this exercise:** teaches how to move between equivalent descriptions of a line and connect them with the appropriate vectors.
+
+## Solution
+
 For $A=(1,2)$ and $B=(4,-1)$, a direction vector is
 
 $$

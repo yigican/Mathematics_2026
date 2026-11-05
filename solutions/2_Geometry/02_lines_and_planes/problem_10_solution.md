@@ -1,5 +1,13 @@
 # Exercise 10. Projection of a Point onto a Plane
 
+## Question
+
+Find the orthogonal projection of $P=(2,1,3)$ onto the plane $x+y+z=3$, and then find the reflection of $P$ across this plane. Check that the midpoint of the segment joining the point and its reflection lies on the plane.
+
+> **Why this exercise:** combines the normal, intersection, and distance into the construction of a projection and reflection.
+
+## Solution
+
 The plane $x+y+z=3$ has normal $n=(1,1,1)$ and $d=3$. For $P=(2,1,3)$,
 
 $$

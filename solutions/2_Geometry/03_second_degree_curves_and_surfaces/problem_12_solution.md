@@ -1,5 +1,18 @@
 # Exercise 12. Recognizing a Surface from Cross-Sections
 
+## Question
+
+A certain surface has the following properties:
+- the cross-section $z=0$ is a point,
+- for $z>0$, the cross-sections $z=\mathrm{const}$ are circles with increasing radius,
+- vertical cross-sections through the $Oz$ axis are parabolas.
+
+Propose a simple equation for such a surface and justify your choice.
+
+> **Why this exercise:** reverses the usual reasoning: from geometry to an equation.
+
+## Solution
+
 A simple equation satisfying all three conditions is
 
 $$
